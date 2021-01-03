@@ -1,0 +1,6 @@
+git rebase
+  1) git log  --查看提交记录
+  2) git rebase -i  id
+     生成的文件中  最终要提交的记录为 p, 不需要提交的记录为 f 然后保存退出 :wq
+  3)修改 提交的注解  git commit --amend
+  4)提交到远端 git push -f
