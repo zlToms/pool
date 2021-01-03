@@ -19,7 +19,7 @@ public class MyTest {
     @Autowired
     private RestHighLevelClient client;
 
-
+    private String name;
 
 
 }
