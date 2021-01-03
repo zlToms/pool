@@ -11,3 +11,6 @@ elasticsearch:
   connectionRequestTimeout: 5000
   maxConnectNum: 100
   maxConnectPerRoute: 100
+es:
+  elasticsearch.ip: 127.0.0.1
+  elasticsearch.port: 9200
